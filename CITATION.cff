@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: >-
+  If you use this software, please cite it using the metadata below, and cite the
+  accompanying manuscript and data record listed in the README.
+type: software
+title: "oncophenomap: genotype-phenotype maps and tree-based variance decomposition"
+abstract: >-
+  oncophenomap is a Python library for constructing tree-based genotype-phenotype maps
+  from a reduced phenotype space and a set of genomic features. It fits genotype-driven
+  partitions of the phenotype space, optionally after residualizing on chromosome-arm and
+  H&E context, quantifies the variance explained by the fitted tree, and builds group
+  heatmaps for inspecting the resulting map.
+authors:
+  - given-names: Camilo
+    family-names: Espinosa Bernal
+    affiliation: "Genentech, Inc."
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  - given-names: Sandra
+    family-names: Melo Carlos
+    affiliation: "Genentech, Inc."
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+version: 0.1.0
+date-released: "2026-10-15"
+license: MIT
+repository-code: "https://github.com/Genentech/oncophenomap"
+keywords:
+  - genotype-phenotype map
+  - regression tree
+  - variance decomposition
+  - cancer genomics
+  - colorectal cancer
