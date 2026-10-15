@@ -19,7 +19,8 @@ authors:
     family-names: Melo Carlos
     affiliation: "Genentech, Inc."
     orcid: "https://orcid.org/0009-0000-8143-5417"
-version: 0.1.0
+version: 0.1.1
+doi: 10.5281/zenodo.23403256
 date-released: "2026-10-15"
 license: MIT
 repository-code: "https://github.com/Genentech/oncophenomap"

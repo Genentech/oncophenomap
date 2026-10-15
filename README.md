@@ -500,7 +500,10 @@ rather than a general-purpose plotting, decomposition, or latent-space analysis 
 
 ## Citation
 
-If you use `oncophenomap`, please cite the manuscript and the data record:
+If you use `oncophenomap`, please cite the software, the manuscript and the data record:
+
+> Espinosa Bernal C, Melo Carlos S. *oncophenomap: genotype-phenotype maps and tree-based
+> variance decomposition.* Zenodo. https://doi.org/10.5281/zenodo.23403256
 
 > Espinosa C, et al. *Mutation architectures define a WNT-MAPK transcriptional landscape in
 > colorectal cancer.* Manuscript submitted.
@@ -508,7 +511,8 @@ If you use `oncophenomap`, please cite the manuscript and the data record:
 > Espinosa C, et al. *Data for Mutation architectures define a WNT-MAPK transcriptional landscape
 > in colorectal cancer.* Zenodo. https://doi.org/10.5281/zenodo.23055294
 
-A citation for the software itself will be added here when its release is archived.
+The DOI above always resolves to the latest release; each release also has its own
+version DOI on Zenodo.
 
 ## License
 

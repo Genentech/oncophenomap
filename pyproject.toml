@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "oncophenomap"
-version = "0.1.0"
+version = "0.1.1"
 description = "Genotype-phenotype maps and tree-based variance decomposition."
 requires-python = ">=3.9"
 dependencies = [
